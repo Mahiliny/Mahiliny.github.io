@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #ffa7cc repeat;
+  background: #f469a3 repeat;
   position: relative;
 }
 
@@ -383,12 +383,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
+  color: rgb(0, 0, 0);
   border-bottom: 2px solid #ffab40;
 }
 
 .card li a:hover {
-  color: #333;
+  color: rgb(0, 0, 0);
   font-weight: 500;
 }
 
