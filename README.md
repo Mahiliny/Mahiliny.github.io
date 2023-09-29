@@ -22,3 +22,10 @@ Activity 3:
 
 ![Activity3](https://github.com/Mahiliny/Mahiliny.github.io/assets/97846637/596f8d11-91d4-4686-b281-598778b02fbd)
 
+Activity 4:
+
+![Activity4Repo](https://github.com/Mahiliny/Mahiliny.github.io/assets/97846637/93633344-7b83-4a17-9c42-413c7249dbbe)
+
+![Activity4](https://github.com/Mahiliny/Mahiliny.github.io/assets/97846637/91596902-1ccc-44e3-87df-8e56c8fa9ca7)
+
+
